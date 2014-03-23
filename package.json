@@ -1,0 +1,46 @@
+{
+  "name": "generator-stefan",
+  "version": "0.0.1",
+  "description": "A JS app generator for Yeoman",
+  "keywords": [
+    "yeoman-generator",
+    "scaffold",
+    "javascript"
+  ],
+  "homepage": "https://github.com/danielbreves/generator-stefan",
+  "bugs": "https://github.com/danielbreves/generator-stefan/issues",
+  "author": {
+    "name": "Daniel Ribeiro",
+    "email": "djbreves@gmail.com",
+    "url": "https://github.com/danielbreves"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbreves/generator-stefan.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.16.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.3"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "files": [
+    "app"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
