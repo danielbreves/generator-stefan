@@ -1,6 +1,6 @@
 # Stefan - Yeoman JS App Generator
 
-> Create a pure JavaScript project with [Yeoman ][http://yeoman.io/], including gluejs and uglify for building and testem, mocha, chai and sinon for testing.
+Create a pure JavaScript project with [Yeoman](http://yeoman.io/), including gluejs and uglify for compilation and testem, mocha, chai and sinon for testing.
 
 This generator is based of
 [generator-node](https://github.com/yeoman/generator-node), authored by the
